@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arysuryo17
-- 👀 I’m interested in Data Analytics, Data Visualization, dan Web Development
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Data Analytics, Business Intelligence, and IT Governance
+- 🌱 I’m currently learning Power BI, SQL, and Python 
 - 💞️ I’m looking to collaborate on Data Visualization Project
 - 📫 How to reach me by access my Linkedin Profile
 
